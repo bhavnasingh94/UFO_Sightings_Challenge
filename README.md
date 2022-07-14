@@ -5,6 +5,8 @@
 Dana would like to provide a more in-depth analysis of the UFO sightings by allowing users to filter for multiple criteria at the same time. Using Javascript, I'm adding filters for city, state, country, and shape along with with the data of the sighting
 
 ![filtering](https://user-images.githubusercontent.com/98790082/178402079-774c512f-2b0f-41c0-bb0b-e9110f3b8c4f.png)
+![image](https://user-images.githubusercontent.com/98790082/178892647-9b4e84d4-7d46-4608-b2a5-5188dcd16767.png)
+
 
 ## Results
 
