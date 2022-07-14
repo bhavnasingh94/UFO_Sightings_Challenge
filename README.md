@@ -18,4 +18,3 @@ Using JavaScript, I've created a new function to loop through the dataset and ke
 
 The main drawback of the site is the person looking for the UFO sightings would already have to know which date, shapes, or cities to look for specifically in order for the filteration to work. Some shapes listed may not be something a user would normally use. A drop-down arrow displaying the list of "shapes" and "cities" would make it easier for the user to navigate better throughout the site to find what they are looking for.
 
-http://127.0.0.1:5500/index.html
